@@ -126,6 +126,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "slackware",
+			"description": "CDN for slackware",
+			"domain_files": ["slackware.txt"]
 		}
 	]
 }
